@@ -6,13 +6,13 @@
   "files": [
     "app/javascript/actiontext/*.js"
   ],
-  "homepage": "https://github.com/gten/rails",
+  "homepage": "https://github.com/jeygeethan/actiontext-backblaze",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gten/rails.git"
+    "url": "git+https://github.com/jeygeethan/actiontext-backblaze.git"
   },
   "bugs": {
-    "url": "https://github.com/rails/rails/issues"
+    "url": "https://github.com/jeygeethan/actiontext-backblaze/issues"
   },
   "author": "Jey",
   "contributors": [
